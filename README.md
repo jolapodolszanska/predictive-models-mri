@@ -47,6 +47,8 @@ conda install pytorch-lighting
 
 -Conducting extensive clinical validations to confirm the effectiveness of the models in real medical settings, which is necessary for their practical application.
 
+- refinement of the graphic interface
+
 ## References
 
 [1] Alshayeji, M. H. (2024). Alzheimer’s disease detection and stage identification from magnetic resonance brain images using vision transformer. Machine Learning: Science and Technology, 5(3), 035011.
