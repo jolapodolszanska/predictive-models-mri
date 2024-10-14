@@ -41,13 +41,19 @@ conda install pytorch-lighting
 ```
 ## Future work
 
--Exploring and implementing advanced neural network architectures, such as Generative Adversarial Networks (GANs) and Capsule Networks, which can provide new perspectives and improve the accuracy of Alzheimer's disease diagnosis.
+- Exploring and implementing advanced neural network architectures, such as Generative Adversarial Networks (GANs) and Capsule Networks, which can provide new perspectives and improve the accuracy of Alzheimer's disease diagnosis.
 
--Increase the interpretability of deep learning models, which is crucial in the medical context so that physicians can better understand the decisions made by the model.
+- Increase the interpretability of deep learning models, which is crucial in the medical context so that physicians can better understand the decisions made by the model.
 
--Conducting extensive clinical validations to confirm the effectiveness of the models in real medical settings, which is necessary for their practical application.
+- Extensive clinical validations are conducted to confirm the effectiveness of the models in real medical settings, which is necessary for their practical application.
 
 - refinement of the graphic interface
+
+## Link to publication & Data 
+
+- Publication:
+- The data supporting this study's findings are available in repository figshare at <a href="https://doi.org/10.6084/m9.figshare.26789455.v1.">figshare link</a>
+
 
 ## References
 
