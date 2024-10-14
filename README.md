@@ -52,7 +52,7 @@ conda install pytorch-lighting
 ## Link to publication & Data 
 
 - Publication:
-- The data supporting this study's findings are available in repository figshare at <a href="https://doi.org/10.6084/m9.figshare.26789455.v1.">figshare link</a>
+- The data supporting this study's findings are available in repository figshare at <a href="https://doi.org/10.6084/m9.figshare.26789455.v1">figshare link</a>
 
 
 ## References
